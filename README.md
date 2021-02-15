@@ -3,4 +3,4 @@
  A good theoretical introduction can be found on arxiv[1].
  
 ## References
-[1] J. K. Asbóth, L. Oroszlány, and A. Pályi, *A Short Course on Topological Insulators.*meow Budapest, HU: Springer Cham, Sep 2017.
+[1] J. K. Asbóth, L. Oroszlány, and A. Pályi, *A Short Course on Topological Insulators.* Budapest, HU: Springer Cham, Sep 2017.
