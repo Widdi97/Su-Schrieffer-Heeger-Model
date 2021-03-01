@@ -1,7 +1,7 @@
 # Su-Schrieffer-Heeger-Model
  A small collection of python scripts which calculate the eigenspectrum and eigenstates of a SSH hopping hamiltonian.
  The theoretical introduction, which was used to create this code can be found online[1].
- All the work related to this code was done in the bachelor thesis "Akustische Umsetzung des Su-Schrieffer-Heeger Modells" at the chair of experimental pyhsics 7 at Julius-Maximilians-universität Würzburg.
+ All the work related to this code was done in the bachelor thesis "Akustische Umsetzung des Su-Schrieffer-Heeger Modells" at the chair of experimental pyhsics 7 at Julius-Maximilians-Universität Würzburg.
 
 ## TO-DO
 [ ] vor der Veröffentlichung Uni Wue referenzieren
